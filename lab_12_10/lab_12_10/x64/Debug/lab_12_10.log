@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Student\ri\matskula\labspkr\lab_12_10\lab_12_10\Source.cpp(238,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Student\ri\matskula\labspkr\lab_12_10\lab_12_10\Source.cpp(272,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab_12_10.vcxproj -> C:\Student\ri\matskula\labspkr\lab_12_10\x64\Debug\lab_12_10.exe
